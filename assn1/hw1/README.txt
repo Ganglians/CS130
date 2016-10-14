@@ -1,0 +1,13 @@
+HOW TO CONTROL POLYGON:
+W : MOVE UP
+S : MOVE DOWN
+A : MOVE LEFT 
+D : MOVE RIGHT
+
+T : TOGGLE WIREFRAME
+
+I : ZOOM IN
+O : ZOOM OUT
+
+HOW TO RUN PROGRAM:
+./a.out ./modelview.sample_____.txt
