@@ -353,9 +353,9 @@ int main(int argc, char** argv)
 {
 	readFile(argv[1]);
 	GLInit(&argc, argv);
-    loadSpheres();
+    //loadSpheres();
 	glutMainLoop();
-	cout << "End\n";
+	//cout << "End\n";
 	return 0;
 }
 
